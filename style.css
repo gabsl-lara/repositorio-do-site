@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica,sans-serif;
 }
 
 .container{
@@ -47,12 +47,15 @@
 }
 
 .card{
-    border: 5px solid rgb(55, 55, 206);
+    border: 5px solid rgb(83, 18, 167);
     padding: 2%;
     border-radius: 16px;
 }
 
 .cardname{
-    color:rgb(55, 55, 206)
+    color:rgb(236, 72, 22)
     
+}
+.imagem{
+    width: 200px;
 }
